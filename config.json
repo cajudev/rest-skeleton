@@ -1,0 +1,10 @@
+{
+  "database": {
+    "driver": "pdo_mysql",
+    "host": "",
+    "dbname": "",
+    "user": "",
+    "password": "",
+    "charset": "utf8"
+  }
+}
