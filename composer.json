@@ -5,6 +5,6 @@
     }
   },
   "require": {
-    "cajudev/rest": "dev-master"
+    "cajudev/rest": "0.0.1"
   }
 }
